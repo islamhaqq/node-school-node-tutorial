@@ -11,5 +11,6 @@
 	"description": "",
 	"dependencies": {
 		"@linclark/pkg": "^1.0.2"
-	}
+	},
+	"repository": "https://github.com/SyedAman/node-school-how-to-npm"
 }
